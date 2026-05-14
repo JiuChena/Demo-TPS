@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bffdd24f530d5514db195caff1fb4720, type: 3}
+  m_Name: StoreItemsConfiguration
+  m_EditorClassIdentifier: 
+  storeSerialNumber: 2026.3.28.2
+  canBeSoldAmmunitionInfo:
+  - itemInfo: {fileID: 11400000, guid: 4c750f2b760d906439827f7efda68997, type: 2}
+    itemPurchaseLimit: -1
+  - itemInfo: {fileID: 11400000, guid: 37d45afa18a9f4d40ab2ab04bbe111a4, type: 2}
+    itemPurchaseLimit: -1
+  - itemInfo: {fileID: 11400000, guid: e19c05f862a83f84294ba4ced8477c3a, type: 2}
+    itemPurchaseLimit: -1
+  canBeSoldPotionInfo:
+  - itemInfo: {fileID: 11400000, guid: 052dc51f79b16f04a91478031d8cf717, type: 2}
+    itemPurchaseLimit: 50
+  canBeSoldPropInfo:
+  - itemInfo: {fileID: 11400000, guid: 765a8931214f75245bdb31b1d5fd134f, type: 2}
+    itemPurchaseLimit: 100
+  canBeSoldChipInfo: []
+  canBeSoldCharacterInfo:
+  - itemInfo: {fileID: 11400000, guid: 9a3a1cd734f4aa946b59c8fa9b930629, type: 2}
+    itemPurchaseLimit: 1

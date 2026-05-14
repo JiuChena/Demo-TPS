@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c02f64512605664db08bc10fd187040, type: 3}
+  m_Name: CHUniversal
+  m_EditorClassIdentifier: 
+  buff: {fileID: 5851613223737551421, guid: 7c87e6589aec856448eeef50ef002c4e, type: 3}
+  debuff: {fileID: 7697513587547407470, guid: b2b6900d15409f64996dda6cd6bc5bf5, type: 3}
+  healCast: {fileID: 2567179617250469064, guid: 43a93ad819261d14fb742b59541a00e5, type: 3}
+  healLoop: {fileID: 597744134238025739, guid: f76e56d6b009eb6468dbc7befc881f3e, type: 3}
+  footstepSound: {fileID: 8300000, guid: 46de5b0ff91e11c47bebbd4244b2b2f5, type: 3}
+  buffSound: {fileID: 0}
+  debuffSound: {fileID: 0}
+  shieldSound: {fileID: 0}
+  healCastSound: {fileID: 8300000, guid: 944fc21edac9d7b47b9c38f0c6ae4671, type: 3}
+  healLoopSound: {fileID: 8300000, guid: ae004d9c6728d1b48afbb47caf726c43, type: 3}

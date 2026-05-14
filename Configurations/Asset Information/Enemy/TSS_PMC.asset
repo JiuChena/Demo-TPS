@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdc426a9ba30ff148bbea296e718e507, type: 3}
+  m_Name: TSS_PMC
+  m_EditorClassIdentifier: 
+  assetID: TSS_PMC
+  name: TSS_PMC
+  modle: {fileID: 8088108235044827975, guid: b197003f24eb7174197ec16336fab90f, type: 3}
+  specialAction: 0
+  WeaponType: 4
+  ammunitionCapacity: 100
+  materials: []
+  enemyType: 0
+  dataBase: {fileID: 11400000, guid: a40442d3debeaa547b04719cc4979e29, type: 2}
+  dataGrowth: {fileID: 11400000, guid: d031c9a91f607d246a0f1130ec746867, type: 2}
+  skillDataTable:
+    minDistance: 5
+    attackCount: 3
+    attackMaxDistance: 5
+    attackEffect: {fileID: 0}
+    attackEffects: []
+    skillCoolTime: 40
+    skillMaxDistance: 7
+    skillEffect: {fileID: 0}
+    multiplierAffix: 1
+    skillEffects: []

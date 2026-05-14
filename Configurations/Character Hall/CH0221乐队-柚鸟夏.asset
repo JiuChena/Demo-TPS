@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a09dd8739f72b3040a5c3b8f28079b57, type: 3}
+  m_Name: "CH0221\u4E50\u961F-\u67DA\u9E1F\u590F"
+  m_EditorClassIdentifier: 
+  assetID: "CH0221\u4E50\u961F-\u67DA\u9E1F\u590F"
+  name: "\u4E50\u961F-\u67DA\u9E1F\u590F"
+  modle: {fileID: 3646127409063666618, guid: 8a901de3b2586b84391ab807b0db6bad, type: 3}
+  specialAction: 1
+  WeaponType: 1
+  ammunitionCapacity: 48
+  materials: []
+  mouseTexture: {fileID: 0}
+  dataBase: {fileID: 11400000, guid: 182909084a900a5489c37b44cea7ce37, type: 2}
+  dataGrowth: {fileID: 11400000, guid: c03071c4205059c4fb917bbba3eac11a, type: 2}

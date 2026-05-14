@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Task Configs
+  m_EditorClassIdentifier: 
+  m_GroupName: Task Configs
+  m_Data:
+    m_SerializedData: []
+  m_GUID: fc28a5e72f87655469ca2752de6da9cf
+  m_SerializeEntries:
+  - m_GUID: 29b42e06c2c7fa742be1f0ae51a9c5ba
+    m_Address: Money Task 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 32e62792778e476439ee30b6413833d5
+    m_Address: Store Task 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 41c305e20c26d484e946115b81483150
+    m_Address: Fight Task 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7fed745a6109ad0489c4e198975f5b6e
+    m_Address: Interaction Task 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 1c52ab30315730b4a980a99abed50fb8, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ad9d33f34a0fc8d4bb24bb309f94281b, type: 2}
+    - {fileID: 11400000, guid: 05011425c9d01b04a915c9b15beb5107, type: 2}

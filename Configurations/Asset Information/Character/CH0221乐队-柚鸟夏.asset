@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d792dae695e58f24589dea3726437148, type: 3}
+  m_Name: "CH0221\u4E50\u961F-\u67DA\u9E1F\u590F"
+  m_EditorClassIdentifier: 
+  assetID: "CH0221\u4E50\u961F-\u67DA\u9E1F\u590F"
+  name: "\u4E50\u961F-\u67DA\u9E1F\u590F"
+  modle: {fileID: 6851593116460229319, guid: 1c0577484f9d5454db7253e099d009fe, type: 3}
+  specialAction: 1
+  WeaponType: 1
+  ammunitionCapacity: 48
+  materials:
+  - {fileID: 2100000, guid: 3024f2d265431924cb9a4a9ef864dfc7, type: 2}
+  - {fileID: 2100000, guid: 8661ca11a91125649985b80f5e0e294c, type: 2}
+  - {fileID: 2100000, guid: 0193fecf97bc0a24bb85e5f0b502abda, type: 2}
+  - {fileID: 2100000, guid: 1a25dc8bca33c4245855278cbc9f62b2, type: 2}
+  - {fileID: 2100000, guid: 421a7ee2d0f50bf4dbcca01f02ecd3bc, type: 2}
+  - {fileID: 2100000, guid: e6193ce55412f3b4881af989f7552478, type: 2}
+  - {fileID: 2100000, guid: 1b8aa27b303c6d74fbca2d35430d11f1, type: 2}
+  - {fileID: 2100000, guid: e85c6b288ed4836408f774a5ab6d85a1, type: 2}
+  - {fileID: 2100000, guid: 390fc35cf6a6b644c800074c2a8c398a, type: 2}
+  - {fileID: 2100000, guid: 1948421172c8f6b40b2b9a6b00022362, type: 2}
+  universalConfiguration: {fileID: 11400000, guid: 966b2e784b6c52446a0213a534c48202, type: 2}
+  attackDely: {fileID: 0}
+  reload: {fileID: 8300000, guid: ab99079e146328c429c536e782ef5bf2, type: 3}
+  dataBase: {fileID: 11400000, guid: 182909084a900a5489c37b44cea7ce37, type: 2}
+  dataGrowth: {fileID: 11400000, guid: c03071c4205059c4fb917bbba3eac11a, type: 2}
+  CHProfilePictureSprite: {fileID: 21300000, guid: 6b8a6aca3e3c99048b8c754c68479dd4, type: 3}
+  CHBurstSprite: {fileID: 21300000, guid: 88631a24565ff0e4f98488e95e2c8749, type: 3}
+  CHTalentSprite: {fileID: 21300000, guid: 53147daff9b317a41a97417b5588a08d, type: 3}
+  mouseTexture: {fileID: 2800000, guid: 7789b657ea330f94d9b70d6d4a117aed, type: 3}
+  chSkillDataTable:
+    attackCount: 3
+    attackSkillEffect: {fileID: 0}
+    attackSkillEffects: []
+    talentAreaConfig:
+      burstSkillArea: 0
+      radius: 2
+      angle: 360
+      length: 0
+      width: 0
+    talentSkillEffect: {fileID: 0}
+    talentMultiplierAffix: 0
+    talentSkillEffects: []
+    burstAreaConfig:
+      burstSkillArea: 0
+      radius: 4
+      angle: 360
+      length: 0
+      width: 0
+    burstSkillEffect: {fileID: 0}
+    burstMultiplierAffix: 0
+    burstSkillEffects: []

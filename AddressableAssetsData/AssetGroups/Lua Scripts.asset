@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Lua Scripts
+  m_EditorClassIdentifier: 
+  m_GroupName: Lua Scripts
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 2c64eadd102a34b49abcdde87a71d6a6
+  m_SerializeEntries:
+  - m_GUID: 3a33d165872c9a147b73c61e13abd5a5
+    m_Address: MainLua.lua
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 44ae876e3972f124b819a7343bc8ba73
+    m_Address: Solider_HGBehavior.lua
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 740fae753175c4743a15cc1b8f6497b3
+    m_Address: TaskFunctions1.lua
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8762e4231a476064986d9432effb36d3
+    m_Address: CH0221Behavior.lua
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d63108b0fdf210340a3716deb7ef2c93
+    m_Address: TSS_PMCBehavior.lua
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f0184cd5916a51b4fb596587f027140d
+    m_Address: CH0167Behavior.lua
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 1c52ab30315730b4a980a99abed50fb8, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 69d27b86a9ea4634ba34a459f6e6a2eb, type: 2}
+    - {fileID: 11400000, guid: cc233d83f3deb614c8acf9cbaf2e52bb, type: 2}

@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem -Path \"D:\\\\Unity3D\\\\Unity Programs\\\\Demo - TPS - Test\\\\Assets\\\\C# Scripts\" -Recurse -Filter \"*.cs\")",
+      "Bash(Select-Object FullName)",
+      "Bash(Sort-Object)",
+      "Bash(Get-ChildItem -Path \"D:\\\\Unity3D\\\\Unity Programs\\\\Demo - TPS - Test\\\\Assets\\\\C# Scripts\\\\Interaction Modules\" -File)",
+      "Bash(Select-Object -ExpandProperty FullName)",
+      "Bash(Get-ChildItem *)",
+      "PowerShell(Get-ChildItem -Path \"D:\\\\Unity3D\\\\Unity Programs\\\\Demo - TPS - Test\\\\Assets\" -Directory -Name | Where-Object { $_ -eq \"Lua\" })",
+      "PowerShell(Get-ChildItem -Path \"D:\\\\Unity3D\\\\Unity Programs\\\\Demo - TPS - Test\\\\Assets\" -Directory | Where-Object { $_.Name -eq \"Lua\" })"
+    ]
+  }
+}

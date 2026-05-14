@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Bullet Prefabs
+  m_EditorClassIdentifier: 
+  m_GroupName: Bullet Prefabs
+  m_Data:
+    m_SerializedData: []
+  m_GUID: c1f6ce1adcda2fa4aa40b15f35d50e9e
+  m_SerializeEntries:
+  - m_GUID: 0289a204fd349e54887d6c0dde55ebd6
+    m_Address: Shotgun_hit
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b29b8453179739d47a0cf213c2520e83
+    m_Address: CFXR2 Blood (Spherical)
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d62c0e68288c1f74581ec2ab6c80c7a0
+    m_Address: Shotgun_projectile
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e14305d58945484419a16ae69c104ed8
+    m_Address: Shotgun_muzzle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 1c52ab30315730b4a980a99abed50fb8, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 615eacd22ee7bce45bc9a55e7433db97, type: 2}
+    - {fileID: 11400000, guid: 51fe3f1c6c297f446b5a877bb2dee379, type: 2}

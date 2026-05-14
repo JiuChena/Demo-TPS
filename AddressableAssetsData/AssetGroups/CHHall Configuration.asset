@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: CHHall Configuration
+  m_EditorClassIdentifier: 
+  m_GroupName: CHHall Configuration
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f741d84853bf6a2409321f43a6c686dd
+  m_SerializeEntries:
+  - m_GUID: f0ae1a2f0b97d604cae0645c72327f96
+    m_Address: "CH0167\u5B87\u6CFD\u73B2\u7EB1"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f0b67097d50e89e409dc3c9f29d31463
+    m_Address: "CH0221\u4E50\u961F-\u67DA\u9E1F\u590F"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 1c52ab30315730b4a980a99abed50fb8, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 18604194e84804b40a09fd8b1ab2ceb0, type: 2}
+    - {fileID: 11400000, guid: 5aaacecbf0e282e48b20e73db44ce64f, type: 2}

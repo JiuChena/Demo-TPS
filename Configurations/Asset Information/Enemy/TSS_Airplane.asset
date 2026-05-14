@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdc426a9ba30ff148bbea296e718e507, type: 3}
+  m_Name: TSS_Airplane
+  m_EditorClassIdentifier: 
+  assetID: TSS_Airplane
+  name: TSS_Airplane
+  modle: {fileID: 0}
+  specialAction: 0
+  WeaponType: 4
+  ammunitionCapacity: -1
+  materials: []
+  enemyType: 0
+  skillDataTable:
+    minDistance: 2
+    attackCount: 1
+    attackMaxDistance: 8
+    attackEffect: {fileID: 0}
+    attackEffects: []
+    skillCoolTime: 10
+    skillMaxDistance: 10
+    skillEffect: {fileID: 0}
+    multiplierAffix: 0
+    skillEffects: []
